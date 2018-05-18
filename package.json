@@ -1,0 +1,18 @@
+{
+  "name": "serverless-clj",
+  "version": "1.0.0",
+  "description": "Serverless plugin to build clojure",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelash/serverless-clj-plugin.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/joelash/serverless-clj-plugin/issues"
+  },
+  "homepage": "https://github.com/joelash/serverless-clj-plugin#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
